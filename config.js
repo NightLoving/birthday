@@ -7,12 +7,12 @@ var config = {
         "心爱的小可爱",  // 同上...
         "今天是你的20岁生日",
         "我希望我心爱的女孩",
-        "一生遂顺",
-        "平安喜乐",
+        "能够漂漂亮亮",
+        "每天开心",
         "想要的都拥有",
         "过往的都释然",
         "但愿以后我都能与你共同成长",
-        "共同减肥",
+        "一起减肥",
         "❤",
     ],
     /**
@@ -35,7 +35,7 @@ var config = {
         bannar_coming: "来点装饰？",
         balloons_flying: "放飞气球🎈",
         cake_fadein: "少不了蛋糕🎂",
-        light_candle: "点燃蜡烛🕯",
+        light_candle: "点燃蜡烛",
         wish_message: "生日快乐🎉",
         story: "A MESSAGE FOR YOU📃",
     }
